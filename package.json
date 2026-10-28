@@ -1,0 +1,25 @@
+{
+  "name": "voice-gpu",
+  "version": "1.0.0",
+  "description": "A proposal for integrating hardware-level voice recording capabilities directly into GPU architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet - this is a concept proposal\" && exit 0"
+  },
+  "keywords": [
+    "gpu",
+    "voice",
+    "audio",
+    "hardware",
+    "ai",
+    "speech-recognition",
+    "architecture",
+    "proposal"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swathiGanti392/voice-gpu"
+  }
+}
